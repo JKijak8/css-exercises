@@ -33,6 +33,10 @@ body {
   font-style: italic;
 }
 
+.profile-image {
+  flex: none;
+}
+
 .right,
 .left {
   display: flex;
