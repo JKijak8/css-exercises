@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.class {
+  background-color: #ffa7a7;
+  font-size: 20px;
+}
+
+.cooler {
+  font-size: 40px;
+}
+
+#one {
+  color: blue;
+  font-size: 60px;
+}
+
+#another {
+  background-color: #80ff80;
+  font-size: 40px;
+  font-weight: bolder;
+}
